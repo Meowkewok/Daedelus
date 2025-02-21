@@ -24,7 +24,7 @@ Total hours so far: 4
 ## Log
 |Date |Task |Time |Notes|
 |-----|-----|-----|-----|
-|2/21/2025|Set up Repo, ideas, design goals, began BOM|4 Hours|Thanks to my brain for finally deciding what to make|
+|2/21/2025|Set up Repo, ideas, design goals, began BOM, began CAD|4 Hours|Thanks to my brain for finally deciding what to make|
 
 ### Credits:  
 Thank you to:  
