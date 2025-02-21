@@ -29,3 +29,6 @@ Total hours so far: 4
 ### Credits:  
 Thank you to:  
 - Rabbi Hametz (RTH)
+
+### Fun stories:
+- This printer is being designed with a broken finger (at the beginning at least)
