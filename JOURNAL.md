@@ -16,7 +16,7 @@ Total hours so far: 4
 |------|------|------|------|
 |Linear Rails|3|$16 (less if on sale) |https://www.aliexpress.us/item/3256804722090559.html?gatewayAdapt=glo2usa|
 |Extruder Assembly|1|$0|Have on hand (from Ender 3)|
-|NEMA 17 Steppers|5|$0|Have on hand (from Ender 3)|
+|NEMA 17 Steppers|5|$40-$70|https://www.aliexpress.us/item/3256802068491329.html?spm=a2g0o.productlist.main.2.1478494c9Qbepi&algo_pvid=6fc5044f-9e02-450e-8a7f-6a22700f37b1&algo_exp_id=6fc5044f-9e02-450e-8a7f-6a22700f37b1-1&pdp_ext_f=%7B%22order%22%3A%2257%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%2117.73%2110.98%21%21%2117.73%2110.98%21%40%2112000030753573944%21sea%21US%210%21ABX&curPageLogUid=p9PesYSEpBL2&utparam-url=scene%3Asearch%7Cquery_from%3A|
 |Threaded rods|2|$0|Have on hand (from Ender 3)|
 |plastic|all of it|like 20 per kilo|Obtain from school's makerspace?|
 
