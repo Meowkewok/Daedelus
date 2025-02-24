@@ -8,7 +8,7 @@ Total hours so far: 4
 
 ## Design goals: 
 - CoreXY
-- 300 x 300 x 250 mm
+- 300 x 300 x 250 (at least) mm Build area
 - Swappable toolhead
 
 ## BOM
@@ -25,6 +25,7 @@ Total hours so far: 4
 |Date |Task |Time |Notes|
 |-----|-----|-----|-----|
 |2/21/2025|Set up Repo, ideas, design goals, began BOM, began CAD|4 Hours|Thanks to my brain for finally deciding what to make|
+|2/23/2025|CAD, Research|3 hours||
 
 ### Credits:  
 Thank you to:  
