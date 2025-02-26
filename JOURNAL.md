@@ -33,6 +33,12 @@ Total hours so far: 7.5
 |2/23/2025|CAD, Research|3 hours||
 |2/26/2025|Bit more BOM|30 mins|Buying cheap parts from China|
 
+## Ideas for Attachments:
+- 3d Extruder (obviously)
+- Dremel/CNC head
+- 4-Axis attachment - adds a 4th axis which can be attached to by various toolheads
+- Laser (DANGER!)
+
 ### Credits:  
 Thank you to:  
 - Rabbi Hametz (RTH)
