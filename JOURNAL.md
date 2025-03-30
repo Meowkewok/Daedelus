@@ -2,7 +2,7 @@
 
 Made by: @Meowkewok  
 Repository link: https://github.com/meowkewok/Daedelus  
-Total hours so far: 25.5   
+Total hours so far: 27.5   
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -11,9 +11,9 @@ I started this project with a coreXY design, but I flew too high, hence the name
 
 ## New Design Goals:
 - [ ] Under $300 (USD)
-- [ ] 310mm3 Build Volume
-- [ ] Cartesian Bedslinger
-- [ ] Cool design
+- [x] 310mm3 Build Volume
+- [x] Cartesian Bedslinger
+- [x] Cool design
 - [ ] Touchscreen UI
 - [ ] Klipper w/ RPi?
 
@@ -36,6 +36,7 @@ I just decided to make a spreadsheet using Google Sheets, it was easier. LINK: h
 |3/25/2025|CAD|1 Hour|almost done!|
 |3/26/2025|CAD|30 mins||
 |3/27/2025|CAD, Logo|2 Hours|Yay logo, also almost done again!|
+|3/30/2025|CAD, BOM|2 Hours|I think im done!|
 
 ## Detailed Log
 3/6/2025  
@@ -63,6 +64,11 @@ Continued working on the BOM, and already it is sooo much cheaper!
 
 3/27/2025  
 Did more CAD and made a logo. ![image](https://github.com/user-attachments/assets/02262cd7-f29a-4057-8ae8-dca04caa174f)
+
+3/30/2025  
+I think this CAD model is done!
+![XYZ Axis v23](https://github.com/user-attachments/assets/93d91f62-8c10-4a08-88d1-50bc8e97942e)  
+Going to try to finish the BOM and submit it today!
 
 
 ## OLD DESIGN INFO (Icharus)
