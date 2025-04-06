@@ -45,16 +45,19 @@ I just decided to make a spreadsheet using Google Sheets, it was easier. LINK: h
 
 ## Detailed Log
 3/6/2025  
-Last time I was working, I finished the Z-Axis, however, I still need a frame...
+Last time I was working, I finished the Z-Axis, however, I still need a frame...  
+I decided to make the Z axis linear rails and lead screws mirrored, so that the Z axis could be more rigid (not sure if this'l actually help or make it worse, but ChatGPT thought it was a good idea so yea)
 ![image](https://github.com/user-attachments/assets/ad0c2183-4e92-49cb-bfbe-74857ae6f1a0)  
 Need to take a break, but here is progress (after 1 hour):
 ![image](https://github.com/user-attachments/assets/bf1df8d6-a668-471f-a1fd-dd65f7159161)  
+I added some 2020 in an H on both the top and bottom, to help with overall stability and structure.  
 Here is the belt routing pic (ik its a bit wonky):
 ![XY Axis Assemby v14](https://github.com/user-attachments/assets/6ac167ef-7925-4199-b3bf-ac91b8dc63a7)  
+Not sure if the wonkiness is going to be much of an issue, but I think it may be because the belts are not going in a straight line. I'll see if I can fix it later ig.
   
 3/10/2025  
 I get my cast off tomorrow!  
-I realized that my BOM needs to be cut down, so I started work on that. OG: ~375, Now: N/A (see next day for why) 
+I realized that my BOM needs to be cut down, so I started work on that (mostly by trying to find cheaper versions of the parts I am using). OG: ~375, Now: N/A (see next day for why) 
   
 3/15/2025  
 I made a realization that a coreXY just costs too much for this...  (and it looks horrible)  
